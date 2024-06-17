@@ -1,0 +1,93 @@
+* {
+}
+
+body {
+  background-color: #183d3d;
+  color: whitesmoke;
+}
+
+.container {
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.nav-link {
+  color: #fdeedc;
+}
+
+.active {
+  background-color: #f1a661 !important;
+}
+
+.headline {
+  color: #ffd8a9 !important;
+}
+
+.btn-primary {
+  background-color: #f1a661 !important;
+  border: 2px solid #e38b29 !important;
+  color: #183d3d !important;
+}
+
+.text-body-secondary {
+  color: whitesmoke !important;
+}
+
+.divider {
+  height: 3rem;
+}
+
+.inline-block {
+  display: flex;
+  display: inline-block;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.profile {
+  width: 50%;
+  height: 50%;
+  border-radius: 50%;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+.fs-4 {
+  font-size: 2rem !important;
+}
+
+.background-video {
+  opacity: 60%;
+  border-radius: 10%;
+  width: 60vw !important;
+}
+
+.form-container {
+  width: 70%;
+}
+
+.form-control {
+  background-color: #ffd8a9;
+  color: #183d3d;
+}
+
+.form-control form:checked {
+  background-color: #fdeedc;
+}
+
+.contact-info {
+  font-size: 1.5rem;
+}
+
+.consulting-hero {
+  height: 40rem !important;
+}
+
+.trade-image {
+  justify-content: center !important;
+}
+
+.trade-hero {
+  margin: -2vh !important;
+}
